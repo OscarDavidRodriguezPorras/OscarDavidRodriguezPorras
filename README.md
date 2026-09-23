@@ -89,7 +89,7 @@ Git           ██████████████░░░░░░  70%
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarDavidRodriguezPorras&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+<img src="https://streak-stats.demolab.com/?user=OscarDavidRodriguezPorras&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
 
 </div>
 
@@ -111,12 +111,6 @@ carga bien, puedes volver a agregarlas con:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 
 </div>
-
----
-
-<div align="center">
-
-`ALL SYSTEMS NOMINAL` · UTC-5 · Bucaramanga, CO
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 

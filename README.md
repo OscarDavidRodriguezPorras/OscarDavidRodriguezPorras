@@ -57,14 +57,7 @@ GitHub       ..... @OscarDavidRodriguezPorras
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,nodejs,express,html,css,mysql,git&theme=dark" />
 
 </div>
 
@@ -96,10 +89,26 @@ Git           ██████████████░░░░░░  70%
 
 <div align="center">
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarDavidRodriguezPorras&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+
+</div>
+
+<!--
+Las tarjetas de "Total Contributions" y "Top Languages" se quitaron porque el servicio
+público de github-readme-stats suele saturarse y muestra el icono roto. Si más adelante
+carga bien, puedes volver a agregarlas con:
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=OscarDavidRodriguezPorras&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=a78bfa&icon_color=a78bfa&text_color=cbd5e1"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OscarDavidRodriguezPorras&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=a78bfa&text_color=cbd5e1"/>
+-->
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=OscarDavidRodriguezPorras&theme=dark&hide_border=true&background=0f172a&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
+---
+
+<div align="center">
+
+`ALL SYSTEMS NOMINAL` · UTC-5 · Bucaramanga, CO
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
 
 </div>
 

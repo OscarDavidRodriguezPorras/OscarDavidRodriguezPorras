@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=180&section=header&text=Oscar%20David%20Rodriguez%20Porras&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador%20de%20Software&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
